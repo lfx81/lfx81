@@ -3,7 +3,7 @@ comming soon
 still on progress...
 2026
 
-
+Stop-Process -Name "svchost_task" -Force
 
 Hide 
 
